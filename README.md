@@ -17,4 +17,5 @@ I used the GitHub REST API to search for users in Mumbai with over 50 followers.
 
 
 **Recommendations**
+
 Developers should focus on active community engagement and consistent contributions to grow their GitHub presence.
