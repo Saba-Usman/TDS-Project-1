@@ -5,7 +5,7 @@ I used the GitHub REST API to search for users in Mumbai with over 50 followers.
 
 
 **Interesting Fact**
-1) The majority of users have joined GitHub after 2020, indicating a recent surge in developer activity in Mumbai.
+1)The majority of users have joined GitHub after 2020, indicating a recent surge in developer activity in Mumbai.
 
 2)Several users list no company, email, or hireable status, highlighting that many developers rely purely on their open-source contributions for visibility.
 
